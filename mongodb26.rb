@@ -1,6 +1,6 @@
 class Mongodb26 < Formula
   homepage "https://www.mongodb.org/"
-  url "https://fastdl.mongodb.org/src/mongodb-src-r2.6.10.tar.gz"
+  url "https://fastdl.mongodb.org/src/mongodb-src-r2.6.11.tar.gz"
   sha256 "74228a22aaf99570e706ecde20658165e3983ee8a9f327e80974f82a4e819476"
 
   bottle do
